@@ -1,6 +1,5 @@
 # Gallery Manager Project
 
----
 
 _A group project done for a school course (not meant to be duplicated)_ 
 
